@@ -1,4 +1,4 @@
-# Data-Science-AI-Bootcamp-Projects
+# Python Exploratry Data Analysis
 Bootcamp Projects
 The objective of this project is to analyze property listings on Zameen.com and generate
 actionable insights to support real estate investment decisions. While guiding questions and
